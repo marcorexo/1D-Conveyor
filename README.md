@@ -1,6 +1,6 @@
 # 1D Automated Sample Conveyor for Terahertz Spectroscopy
 
-![1D Sample Conveyor](./images/sample_conveyor.jpg)
+![1D Sample Conveyor](./images/1DConveyor.jpg)
 
 ## Overview
 
